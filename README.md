@@ -73,10 +73,12 @@ README.roboflow.txt   # Roboflow dataset setup instructions
    git clone https://github.com/laxmi-kumari475/AgriVisionAI.git
    cd AgriVisionAI
 2. Set up the backend:
+   ```bash
    cd backend
    pip install -r requirements.txt
-uvicorn main:app --reload
-3. Start the frontend:
+   uvicorn main:app --reload
+4. Start the frontend:
+   ```bash
    cd frontend
    npm run dev
    
