@@ -1,0 +1,7 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+yolov8n.pt
+.DS_Store
