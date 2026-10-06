@@ -51,6 +51,14 @@ README.roboflow.txt   # Roboflow dataset setup instructions
 
 ---
 
+## Results
+- Real‑time crop disease detection from camera or uploaded images  
+- Weather data displayed alongside crop analysis  
+- AI chatbot interaction with voice and text support  
+- Dashboard showing prediction confidence and environmental metrics
+
+---
+
 ## 📈 Future Enhancements
 - Support for **multi‑crop classification** and disease severity scoring.  
 - Integration with **cloud storage** for dataset management.  
